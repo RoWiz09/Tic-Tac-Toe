@@ -56,4 +56,7 @@ public class tick_tack_toe {
         }
         return pos;
     }
+    public static print(String message){
+        System.out.println(message);
+    }
 }
